@@ -37,5 +37,5 @@ status    : Learning...
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=00ff41)
 
 
-
+ 
 `$ echo "Code. Experiment. Build. Repeat."`
