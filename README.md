@@ -7,15 +7,14 @@ Python dev in progress. Indonesia.
 </div>
 
 ### `> whoami`
-```python
-class Raazor:
-    def __init__(self):
-        self.language = ["Python"]
-        self.interests = ["Simulation", "Automation", "Game Dev", "Experiments"]
 
-    def status(self):
-        return "Learning..."
-```
+<pre>
+name      : Raazor-source
+location  : Indonesia
+language  : Python
+interests : Simulation, Automation, Game Dev, Experiments
+status    : Learning...
+</pre>
 
 ### `> projects`
 - **Python Experiments**: program kecil buat ngulik hal baru
